@@ -1,27 +1,33 @@
 ### Project Template
 
-### [Project Title]
+### My Health Case
 
 ### Pitch
-
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+An application that is targeted to elderly population that makes managing your medical history easier. All information is stored in one desktop application and it generates simply printable lists to take to your medical provider. Care takers and family members can also access reports.
 
 ### Problem
+- It is often hard to remember all your medical history and appointments when filing out paperwork at the doctors office, especially when you go to multiple specialists
+- having accurate information about your health history is important for treatment
+- family members and caretakers can print reports as well
+- Existing applications are targeted to more tech savvy individuals, ie. mobile application, complicated user- interface
 
-1-3 sentences describing the problem that you are trying to solve.
 
 ### Solution
-
-1-3 sentences describing how your application will solve that problem.
+- Build a desktop application that stores all the relevant data
+- Design the application with a lot of thought in mind for an elderly target- Adjustable font, simple navigation. etc.
+- The report will generate documents to print so the patient can take to the medical provider
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+- Elderly or non- tech savvy
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+- React
+- Generate files to print
+
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Wire-framing: https://balsamiq.cloud/sruu7/pfu28/r2278
+Waffle.io for stories
